@@ -1,0 +1,13 @@
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.AssemblyInfo.cs
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\Satranc\Satranc\bin\Debug\netcoreapp3.1\Satranc.exe
+C:\Users\Casper\source\repos\Satranc\Satranc\bin\Debug\netcoreapp3.1\Satranc.deps.json
+C:\Users\Casper\source\repos\Satranc\Satranc\bin\Debug\netcoreapp3.1\Satranc.runtimeconfig.json
+C:\Users\Casper\source\repos\Satranc\Satranc\bin\Debug\netcoreapp3.1\Satranc.runtimeconfig.dev.json
+C:\Users\Casper\source\repos\Satranc\Satranc\bin\Debug\netcoreapp3.1\Satranc.dll
+C:\Users\Casper\source\repos\Satranc\Satranc\bin\Debug\netcoreapp3.1\Satranc.pdb
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.dll
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.pdb
+C:\Users\Casper\source\repos\Satranc\Satranc\obj\Debug\netcoreapp3.1\Satranc.genruntimeconfig.cache
